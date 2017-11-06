@@ -15,7 +15,7 @@ xNeural Net Arch Genealogy
 			[Key-Value Memory Network (KV-MemNN), '16.06](https://arxiv.org/abs/1606.03126)
 		Others
 			[Stack-augmented RNN, '15.03](https://arxiv.org/abs/1503.01007)
-			[Neural Stack & Queue & Dequeue, '15.05](https://arxiv.org/abs/1506.02516)		
+			[Neural Stack & Queue & Dequeue, '15.05](https://arxiv.org/abs/1506.02516)
 	CNN
 		AlexNet
 		VggNet
