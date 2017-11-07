@@ -18,7 +18,7 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
    * [Memory Network, '14.10](https://arxiv.org/abs/1410.3916)
      * [End-to-End Memory Network (MemN2N), '15.03](https://arxiv.org/abs/1503.08895)
      * [Dynamic Memory Network (DMN) - Text, '15.06](https://arxiv.org/abs/1506.07285)
-     * [Dynamic Memory Network (DMN) - Text & Visual, '16.03](https://arxiv.org/abs/1603.01417)
+     * [Dynamic Memory Network (DMN+) - Text & Visual, '16.03](https://arxiv.org/abs/1603.01417)
      * [Key-Value Memory Network (KV-MemNN), '16.06](https://arxiv.org/abs/1606.03126)
    * Others		 
      * [Stack-augmented RNN, '15.03](https://arxiv.org/abs/1503.01007)
