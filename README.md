@@ -14,6 +14,7 @@ This is automatically generated. Please send a PR on the `Neural Net Arch Geneal
      * [Hierarchical Attentive Memory, '16.02](https://arxiv.org/abs/1602.03218)
      * [Differentiable Neural Computer, '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
      * [Sparse Access Memory, '16.10](https://arxiv.org/abs/1610.09027)
+     * [TARDIS](https://arxiv.org/abs/1701.08718)
    * [Memory Network, '14.10](https://arxiv.org/abs/1410.3916)
      * [End-to-End Memory Network (MemN2N), '15.03](https://arxiv.org/abs/1503.08895)
      * [Dynamic Memory Network (DMN) - Text, '15.06](https://arxiv.org/abs/1506.07285)
