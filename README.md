@@ -5,17 +5,24 @@ https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 ![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
 This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.
-* Memory Networks
-  * Neural Programming
-    * [Neural Turing Machine,'14.10](https://arxiv.org/pdf/1410.5401.pdf)
-    * [Neural Random-Access Machines,'16.02](https://arxiv.org/pdf/1511.06392.pdf)
-    * [Hierarchical Attentive Memory, '16.02](https://arxiv.org/abs/1602.03218)
-    * [Neural GPUs Learn Algorithms, '16.03](https://arxiv.org/pdf/1511.08228.pdf)
-    * [Neural Programmer,'16.08](https://arxiv.org/pdf/1511.04834.pdf)
-    * [Hybrid Computing, '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
-  * [Memory Networks,'14.10](https://arxiv.org/abs/1410.3916)
-  *  [End-to-End Memory Network,'15.03](https://arxiv.org/pdf/1503.08895.pdf)
-  * Dynamic Memory Network
+* Memory Augmented Networks
+   * Neural Programming
+     * [Neural Turing Machine,'14.10](https://arxiv.org/pdf/1410.5401.pdf)
+			  * [Neural GPUs Learn Algorithms, '15.11](https://arxiv.org/pdf/1511.08228.pdf)
+			  * [Neural Random-Access Machines,'15.11](https://arxiv.org/pdf/1511.06392.pdf)
+			  * [Neural Programmer,'15.11](https://arxiv.org/pdf/1511.04834.pdf)
+			  * [Hierarchical Attentive Memory, '16.02](https://arxiv.org/abs/1602.03218)
+			  * [Differentiable Neural Computer, '16.10](https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
+			  * [Sparse Access Memory, '16.10](https://arxiv.org/abs/1610.09027)
+   * [Memory Network, '14.10](https://arxiv.org/abs/1410.3916)
+     * [End-to-End Memory Network (MemN2N), '15.03](https://arxiv.org/abs/1503.08895)
+     * [Dynamic Memory Network (DMN) - Text, '15.06](https://arxiv.org/abs/1506.07285)
+     * [Dynamic Memory Network (DMN) - Text & Visual, '16.03](https://arxiv.org/abs/1603.01417)
+     * [Key-Value Memory Network (KV-MemNN), '16.06](https://arxiv.org/abs/1606.03126)
+   * Others		 
+     * [Stack-augmented RNN, '15.03](https://arxiv.org/abs/1503.01007)
+     * [Neural Stack & Queue & Dequeue, '15.05](https://arxiv.org/abs/1506.02516)
+
 * CNN
   * AlexNet
   * VggNet
